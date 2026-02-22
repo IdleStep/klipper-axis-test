@@ -25,7 +25,7 @@ including full axis testing and isolated CoreXY motor diagnostics.
 
 ## Usage
 
-AXIS_TEST AXIS=`\<X\|Y\|Z\|A\|B\>` AMP=`<mm>` CYCLES=`<count>` SPEED=`<mm/min>`
+AXIS_TEST AXIS=`<X|Y|Z|A|B>` AMP=`<mm>` CYCLES=`<count>` SPEED=`<mm/min>`
 
 ------------------------------------------------------------------------
 
